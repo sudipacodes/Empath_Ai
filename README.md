@@ -28,6 +28,8 @@ EmpathAI is an emotionally intelligent chatbot designed to provide voice-to-voic
 
 ### 🤝 Team Extreme Dynamics
 - Anish Das  
-- Rupam Majumdar  
+- Rupam Majumdar
+- Sudipa Acharya
+ 
 
 📅 Project Status: `Ongoing`
